@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Chao Zhou"
 description              : "Chao Zhou's Homepage. "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "zc990708/ChaoZhou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chao Zhou"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Myprofile.jpg"
   bio              : "zhouchao2024@mail.sustech.edu.cn"
   location         : "Shenzhen, China"
   employer         :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-9745-3005"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
