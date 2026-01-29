@@ -82,7 +82,10 @@ My research interests include near-field communications and movable antennas.
 ### 🤝 Conference Papers
 <ul class="pub-list confs">
   <li><b>Chao Zhou</b>, Changsheng You, et al., "<a href="https://ieeexplore.ieee.org/document/10791444">Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions</a>," in <i>Proc. IEEE WCSP</i>, 2024. 🏆 <b>(Best Paper Award)</b></li>
+
+   <li>Jiapeng Li, Changsheng You, and <b>Chao Zhou</b>, "<a href="https://ieeexplore.ieee.org/document/11162419">Extremely Large-scale Lens Antenna Array: Location-aware Near-field Beamforming</a>," in <i>Proc. 2025 IEEE  ICC Workshops</i>, 2025. </li>
 </ul>
+
 
 
 
