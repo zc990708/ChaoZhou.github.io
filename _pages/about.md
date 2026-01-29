@@ -32,6 +32,7 @@ My research interests include near-field communications and movable antennas.
 Liujia Yao; Changsheng You; **Chao Zhou**; Beixiong Zheng; Weidong Mei
 
 [A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field](https://ieeexplore.ieee.org/Xplore/errorpage.jsp?url=%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D11328117)
+Qianglong Dai; Yong Zeng; Huizhi Wang; Changsheng You; **Chao Zhou** et al
 
 
 
