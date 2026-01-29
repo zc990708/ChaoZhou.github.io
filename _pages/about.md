@@ -30,26 +30,36 @@ My research interests include near-field communications and movable antennas.
 <style>
   /* 基础列表样式重置 */
   .pub-list { list-style: none; padding-left: 0; }
-  .pub-list li { margin-bottom: 10px; line-height: 1.5; }
+  .pub-list li { margin-bottom: 12px; line-height: 1.6; }
 
-  /* 期刊计数器 */
+  /* 期刊计数器 [J] */
   .journals { counter-reset: j-section; }
   .journals li::before {
     counter-increment: j-section;
     content: "[J" counter(j-section) "] ";
     font-weight: bold;
-    color: #2e6da4; /* 可选：给编号加点颜色更显眼 */
-    margin-right: 5px;
+    color: #2e6da4;
+    margin-right: 8px;
   }
 
-  /* 会议计数器 */
+  /* 预印本计数器 [P] */
+  .preprints { counter-reset: p-section; }
+  .preprints li::before {
+    counter-increment: p-section;
+    content: "[P" counter(p-section) "] ";
+    font-weight: bold;
+    color: #666666; /* 预印本通常用灰色 */
+    margin-right: 8px;
+  }
+
+  /* 会议计数器 [C] */
   .confs { counter-reset: c-section; }
   .confs li::before {
     counter-increment: c-section;
     content: "[C" counter(c-section) "] ";
     font-weight: bold;
     color: #d9534f;
-    margin-right: 5px;
+    margin-right: 8px;
   }
 </style>
 
@@ -61,6 +71,12 @@ My research interests include near-field communications and movable antennas.
   
   <li>Qianglong Dai, Yong Zeng, Huizhi Wang, Changsheng You, <b>Chao Zhou</b>, et al., "<a href="https://ieeexplore.ieee.org/document/11328117">A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field</a>," <i>IEEE Communications Surveys & Tutorials</i>, 2026.</li>
 </ul>
+
+### 📄 Preprints
+<ul class="pub-list preprints">
+  <li><b>Chao Zhou</b>, et al., "<a href="此处填链接">此处填预印本论文标题</a>," <i>arXiv preprint arXiv:XXXX.XXXXX</i>, 2026.</li>
+</ul>
+
 
 ### 🤝 Conference Papers
 <ul class="pub-list confs">
