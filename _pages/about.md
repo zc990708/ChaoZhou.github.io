@@ -26,11 +26,7 @@ My research interests include near-field communications and movable antennas.
 - *2024.11*: 🎉🎉 I received IEEE WCSP Best Paper Award for paper "[Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Channel+Estimation+for+XL-IRS+Assisted+Wireless+Systems+with+Double-sided+Visibility+Regions&btnG=)", 2024.
 
 
-你的思路非常正确！利用 CSS Counter 是在网页上实现 [J1], [C1] 这种特定格式自动编号的最专业做法。
 
-不过，在 HTML 语法细节上有一点小瑕疵（多余的点号和未闭合的标签）。为了让排版更精美、更符合学术规范，我为你微调了代码：
-
-HTML
 <style>
   /* 基础列表样式重置 */
   .pub-list { list-style: none; padding-left: 0; }
