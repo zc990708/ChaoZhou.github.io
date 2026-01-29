@@ -101,8 +101,6 @@ My research interests include near-field communications and movable antennas.
   <li>Cong Zhou, Changsheng You, <b>Chao Zhou</b>, Hongqiang Cheng, and Shuo Shi, "<a href="https://arxiv.org/abs/2503.04681">Mixed Near-field and Far-field Target Localization for Low-altitude Economy</a>," <i>arXiv preprint arXiv:2503.04681</i>, 2025.</li>
 
   <li>Jiapeng Li, Changsheng You, <b>Chao Zhou</b>, Yong Zeng, and Zhiyong Feng, "<a href="https://arxiv.org/abs/2512.21480">Near-field Target Localization: Effect of Hardware Impairments</a>," <i>arXiv preprint arXiv:2512.21480</i>, 2025.</li>
-
-  <li><b>Chao Zhou</b>, Changsheng You, and Rui Zhang, "<a href="https://arxiv.org/abs/2407.03784">Flexible Antennas for Future Wireless Communications: A New Multi-Dimensional Beamforming Paradigm</a>," <i>arXiv preprint arXiv:2407.03784</i>, 2024.</li>
 </ul>
 
 ### 🤝 Conference Papers
