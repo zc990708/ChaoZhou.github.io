@@ -68,7 +68,10 @@ My research interests include near-field communications and movable antennas.
 
 ### 📚 Journal Articles
 <ul class="pub-list journals">
-  <li>Liujia Yao, Changsheng You, <b>Chao Zhou</b>, Beixiong Zheng, and Weidong Mei, "<a href="https://ieeexplore.ieee.org/document/11329408">Position Optimization for Two-Layer Movable Antenna Systems</a>," <i>IEEE Communications Letters</i>, 2026.</li>
+  <li><b>Chao Zhou</b>, Changsheng You, Beixiong Zheng, Xiaodan Shao, and Rui Zhang, "<a href="https://ieeexplore.ieee.org/document/11039664">Rotatable Antennas for Integrated Sensing and Communications</a>," <i>IEEE Wireless Communications Letters</i>, 2026.</li>
+
+
+  <li>Liujia Yao, Changsheng You, <b>Chao Zhou</b>, Beixiong Zheng, and Weidong Mei, "<a href="https://ieeexplore.ieee.org/document/11329408">Position Optimization for Two-Layer Movable Antenna Systems</a>," <i>IEEE Wireless Communications Letters</i>, 2026.</li>
   
   <li>Qianglong Dai, Yong Zeng, Huizhi Wang, Changsheng You, <b>Chao Zhou</b>, et al., "<a href="https://ieeexplore.ieee.org/document/11328117">A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field</a>," <i>IEEE Communications Surveys & Tutorials</i>, 2026.</li>
 </ul>
@@ -83,7 +86,11 @@ My research interests include near-field communications and movable antennas.
 <ul class="pub-list confs">
   <li><b>Chao Zhou</b>, Changsheng You, et al., "<a href="https://ieeexplore.ieee.org/document/10791444">Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions</a>," in <i>Proc. IEEE WCSP</i>, 2024. 🏆 <b>(Best Paper Award)</b></li>
 
+  <li><b>Chao Zhou</b>, Changsheng You, Tianyu Liu, and Bin Lyu, "<a href="https://ieeexplore.ieee.org/document/10868156">Deployment Optimization for XL-IRS Assisted Multi-User Communications</a>," in <i>Proc. 2024 IEEE  ICSIDP</i>, 2025. </li>
    <li>Jiapeng Li, Changsheng You, and <b>Chao Zhou</b>, "<a href="https://ieeexplore.ieee.org/document/11162419">Extremely Large-scale Lens Antenna Array: Location-aware Near-field Beamforming</a>," in <i>Proc. 2025 IEEE  ICC Workshops</i>, 2025. </li>
+
+
+   
 </ul>
 
 
