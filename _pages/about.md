@@ -30,6 +30,7 @@ My research interests include near-field communications and movable antennas.
 
 ### 📚 Journal Articles
 **[J1]**. Liujia Yao, Changsheng You, **Chao Zhou**, et al., "[Position Optimization for Two-Layer Movable Antenna Systems](https://ieeexplore.ieee.org/document/11329408)," *IEEE Communications Letters*, 2026.
+
 **[J2]**. Qianglong Dai, Yong Zeng, Huizhi Wang, Changsheng You, **Chao Zhou**, et al., "[A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field](https://ieeexplore.ieee.org/document/11328117)," *IEEE Communications Surveys & Tutorials*, 2026.
 
 ### 🤝 Conference Papers
