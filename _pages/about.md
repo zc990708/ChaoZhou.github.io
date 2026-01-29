@@ -57,13 +57,14 @@ My research interests include near-field communications and movable antennas.
 
 ### 📚 Journal Articles
 <ul class="pub-list journals">
-  <li>Liujia Yao, Changsheng You, **Chao Zhou**, Beixiong Zheng, and Weidong Mei, "[Position Optimization for Two-Layer Movable Antenna Systems](https://ieeexplore.ieee.org/document/11329408)," *IEEE Communications Letters*, 2026.</li>
-  <li>Qianglong Dai, Yong Zeng, Huizhi Wang, Changsheng You, **Chao Zhou**, et al., "[A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field](https://ieeexplore.ieee.org/document/11328117)," *IEEE Communications Surveys & Tutorials*, 2026.</li>
+  <li>Liujia Yao, Changsheng You, <b>Chao Zhou</b>, Beixiong Zheng, and Weidong Mei, "<a href="https://ieeexplore.ieee.org/document/11329408">Position Optimization for Two-Layer Movable Antenna Systems</a>," <i>IEEE Communications Letters</i>, 2026.</li>
+  
+  <li>Qianglong Dai, Yong Zeng, Huizhi Wang, Changsheng You, <b>Chao Zhou</b>, et al., "<a href="https://ieeexplore.ieee.org/document/11328117">A Tutorial on MIMO-OFDM ISAC: From Far-Field to Near-Field</a>," <i>IEEE Communications Surveys & Tutorials</i>, 2026.</li>
 </ul>
 
 ### 🤝 Conference Papers
 <ul class="pub-list confs">
-  <li>**Chao Zhou**, et al., "[Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions](此处填链接)," in *Proc. IEEE WCSP*, 2024. 🏆 **(Best Paper Award)**</li>
+  <li><b>Chao Zhou</b>, Changsheng You, et al., "<a href="https://ieeexplore.ieee.org/document/10791444">Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions</a>," in <i>Proc. IEEE WCSP</i>, 2024. 🏆 <b>(Best Paper Award)</b></li>
 </ul>
 
 
