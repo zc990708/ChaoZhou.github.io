@@ -88,6 +88,20 @@ My research interests include near-field communications and movable antennas.
 
 ### 📄 Preprints
 <ul class="pub-list preprints">
+  <li><b>Chao Zhou</b>, Changsheng You, Cong Zhou, Chengwen Xing, and Jianhua Zhang, "<a href="https://arxiv.org/abs/2601.13549">Near-field Physical Layer Security: Robust Beamforming under Location Uncertainty</a>," <i>arXiv preprint arXiv:2601.13549</i>, 2026.</li>
+
+  <li>Liujia Yao, Changsheng You, Zixuan Huang, <b>Chao Zhou</b>, Zhaohui Yang, and Xiaoyang Li, "<a href="https://arxiv.org/abs/2601.10391">Codebook Design for Limited Feedback in Near-Field XL-MIMO Systems</a>," <i>arXiv preprint arXiv:2601.10391</i>, 2026.</li>
+
+  <li><b>Chao Zhou</b>, Changsheng You, Cong Zhou, Liujia Yao, Weijie Yuan, Beixiong Zheng, and Nan Wu, "<a href="https://arxiv.org/abs/2512.15092">Rotatable IRS-Assisted 6DMA Communications: A Two-timescale Design</a>," <i>arXiv preprint arXiv:2512.15092</i>, 2025.</li>
+
+  <li><b>Chao Zhou</b>, Changsheng You, Cong Zhou, Hai Lin, and Yi Gong, "<a href="https://arxiv.org/abs/2511.08107">MA-enhanced Mixed Near-field and Far-field Covert Communications</a>," <i>arXiv preprint arXiv:2511.08107</i>, 2025.</li>
+
+  <li>Cong Zhou, Changsheng You, <b>Chao Zhou</b>, Weidong Mei, Zhi Chen, Chengwen Xing, and Rui Zhang, "<a href="https://arxiv.org/abs/2507.01624">Frequency-switching Array Enhanced Physical-Layer Security in Terahertz Bands: A Movable Antenna Perspective</a>," <i>arXiv preprint arXiv:2507.01624</i>, 2025.</li>
+
+  <li>Cong Zhou, Changsheng You, <b>Chao Zhou</b>, Hongqiang Cheng, and Shuo Shi, "<a href="https://arxiv.org/abs/2503.04681">Mixed Near-field and Far-field Target Localization for Low-altitude Economy</a>," <i>arXiv preprint arXiv:2503.04681</i>, 2025.</li>
+
+  <li>Jiapeng Li, Changsheng You, <b>Chao Zhou</b>, Yong Zeng, and Zhiyong Feng, "<a href="https://arxiv.org/abs/2512.21480">Near-field Target Localization: Effect of Hardware Impairments</a>," <i>arXiv preprint arXiv:2512.21480</i>, 2025.</li>
+
   <li><b>Chao Zhou</b>, Changsheng You, and Rui Zhang, "<a href="https://arxiv.org/abs/2407.03784">Flexible Antennas for Future Wireless Communications: A New Multi-Dimensional Beamforming Paradigm</a>," <i>arXiv preprint arXiv:2407.03784</i>, 2024.</li>
 </ul>
 
