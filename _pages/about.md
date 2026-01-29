@@ -23,7 +23,7 @@ My research interests include near-field communications and movable antennas.
 
 
 # 🔥 News
-- *2022.02*: 🎉🎉 I received IEEE WCSP Best Paper Award for paper "[Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Channel+Estimation+for+XL-IRS+Assisted+Wireless+Systems+with+Double-sided+Visibility+Regions&btnG=)", 2024.
+- *2024.11*: 🎉🎉 I received IEEE WCSP Best Paper Award for paper "[Channel Estimation for XL-IRS Assisted Wireless Systems with Double-sided Visibility Regions](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Channel+Estimation+for+XL-IRS+Assisted+Wireless+Systems+with+Double-sided+Visibility+Regions&btnG=)", 2024.
 
 
 # 📝 Publications 
